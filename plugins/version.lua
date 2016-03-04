@@ -15,7 +15,7 @@ do
 
 function run(msg, matches)
   return 'BehroozTG Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot \n\nhttp://github.com/padrinoo2/DBTeam\n\nDevelopers :\n@MaSkAoS\n@Josepdal\n\nSupport :\n@hang_1' 
-  --[[ Checkout https://github.com/Josepdal/DBTeam
+  --[[ Checkout https://github.com/padrinoo2/DBTeam
   --GNU GPL v2 license.]]
 end
 
